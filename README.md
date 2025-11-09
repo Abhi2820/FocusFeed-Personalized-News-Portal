@@ -47,6 +47,13 @@ Focus Feed is a personalized news recommendation portal that delivers real-time,
 ### Recommendation Engine: Hybrid Model (Content-Based Filtering + Neural Collaborative Filtering)
 
 # 🖼️ Screenshots & Previews
+## 🎥 Project Demo
+
+> ▶️ Click below to watch the full demo of **Focus Feed** in action — showcasing personalized news, translations, live channels, and more.
+
+[![Watch the Demo](https://img.youtube.com/vi/q5S_ezoRHK8/0.jpg)](https://youtu.be/q5S_ezoRHK8)
+
+
 ### 🔹 1. Base Dashboard (Before Login)
 <img width="1915" height="900" alt="image" src="https://github.com/user-attachments/assets/752dd3c8-a5ea-405d-9ad2-de39099ed7c7" />
 
